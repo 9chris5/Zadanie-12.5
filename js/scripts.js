@@ -27,5 +27,5 @@ $(function() {
         }
     }
     getQuote();
-    $('.trigger').click(getQuote)
+    $('.trigger').click(getQuote);
 })
